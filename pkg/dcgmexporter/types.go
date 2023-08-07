@@ -29,8 +29,8 @@ var (
 	SkipDCGMValue   = "SKIPPING DCGM VALUE"
 	FailedToConvert = "ERROR - FAILED TO CONVERT TO STRING"
 
-	nvidiaResourceName      = "nvidia.com/gpu"
-	nvidiaMigResourcePrefix = "nvidia.com/mig-"
+	nvidiaResourceName      = "rainbond.com/gpu"
+	nvidiaMigResourcePrefix = "rainbond.com/mig-"
 	MIG_UUID_PREFIX         = "MIG-"
 
 	// Note standard resource attributes
